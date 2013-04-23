@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Krona+One|Open+Sans:800);
+@import url(http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:800);
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -8,7 +8,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Krona One', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  text-transform:lowercase
   color:#222;
   margin:0 0 20px;
 }
