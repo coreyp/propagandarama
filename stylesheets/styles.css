@@ -1,6 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Krona+One|Open+Sans:400,800,300);
 
 body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight:800
   padding:50px;
   color:#777;
 }
@@ -12,8 +14,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  font-family: 'Open Sans', sans-serif;
-  font-weight:800
   margin:0 0 20px;
 }
 
