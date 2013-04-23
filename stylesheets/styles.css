@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Krona+One|Open+Sans:400,800,300);
+@import url(http://fonts.googleapis.com/css?family=Krona+One|Open+Sans:800);
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -255,6 +255,6 @@ footer {
   }
 }
 
-.pin-title { font-family: 'Open Sans', sans-serif;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
+.pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
 .pin-description { visibility:hidden; color:#555; }
 .pin-tag { visibility:hidden; color:#18c;text-decoration:none;font-size:0.9em; }
