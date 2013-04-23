@@ -259,6 +259,6 @@ button .pin-title:hover { display: none }
 button .pin-title:hover:before { content: ".pin-description" }
 button .pin-title:hover:after { display: none }
 button .pin-description { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
-button .pin-description:hover:before { content: ".pin-title" }
+button .pin-description:hover:after { display: none }
 /* button .pin-description:hover:before { display: none } */
 .pin-tag { visibility:hidden; color:#18c;text-decoration:none;font-size:0.9em; }
