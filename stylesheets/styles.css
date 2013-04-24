@@ -254,7 +254,7 @@ footer {
   }
 }
 
-a.flag {
+h1.flag {
   font-family: 'Quicksand', sans-serif;
   text-transform:lowercase
   color:#222;
