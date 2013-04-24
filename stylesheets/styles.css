@@ -265,5 +265,5 @@ h1 a:link, h1 a:visited {
 
 #archive .pin-description { display:none }
 #archive .pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:1em;text-transform:uppercase;text-decoration:none;color:#00a }
-#archive .pin-item:hover .pin-description { display:block;font-family: 'Open Sans', sans-serif;font-weight:400;font-size:0.9em;padding-bottom:20%}
+#archive .pin-item:hover .pin-description { display:block;font-family: 'Open Sans', sans-serif;font-weight:400;font-size:0.7em }
 #archive .pin-tag { display:none }
