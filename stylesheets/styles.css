@@ -262,12 +262,12 @@ h1 a:link, h1 a:visited {
 #home .pin-tag { display:none } 
 #home .pin-title { display:none }
 #home .pin-item:hover .pin-description { display:none } 
-#home .pin-item:hover .pin-tag { display:inline-block;float:right;color:#18c;text-decoration:none;font-size:0.7em;pointer-events:none;cursor:default }
+#home .pin-item:hover .pin-tag { display:inline-block;padding-left:2px:float:right;color:#18c;text-decoration:none;font-size:0.7em;pointer-events:none;cursor:default }
 #home .pin-item:hover .pin-title { display:block;font-family: 'Open Sans', sans-serif;font-size:3em;font-weight:800 }
 
 #archive .pin-description { display:block;font-family: 'Open Sans', sans-serif;font-size:2em;font-weight:800 }
 #archive .pin-tag { display:none } 
 #archive .pin-title { display:none }
 #archive .pin-item:hover .pin-description { display:none } 
-#archive .pin-item:hover .pin-tag { display:inline-block;float:right;color:#18c;text-decoration:none;font-size:0.6em;pointer-events:none;cursor:default }
+#archive .pin-item:hover .pin-tag { display:inline-block;padding-left:3px;float:right;color:#18c;text-decoration:none;font-size:0.6em;pointer-events:none;cursor:default }
 #archive .pin-item:hover .pin-title { display:block;font-family: 'Open Sans', sans-serif;font-size:2em;font-weight:800 }
