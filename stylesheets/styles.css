@@ -262,3 +262,8 @@ h1 a:link, h1 a:visited {
 .pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a }
 .pin-item:hover .pin-description { display:block;font-family: 'Open Sans', sans-serif;font-weight:400;padding-left:70%}
 .pin-tag { display:none; color:#18c;text-decoration:none;font-size:0.9em; }
+
+#archive.pin-description { display:none }
+#archive.pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:1em;text-transform:uppercase;text-decoration:none;color:#00a }
+#archive.pin-item:hover .pin-description { display:block;font-family: 'Open Sans', sans-serif;font-weight:400;padding-left:70%}
+#archive.pin-tag { display:none; color:#18c;text-decoration:none;font-size:0.9em; }
