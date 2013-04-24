@@ -254,24 +254,11 @@ footer {
   }
 }
 
-h1 a:link {
-  font-family: 'Quicksand', sans-serif;
-  text-transform:lowercase
+h1 a:link, h1 a:visited {
   color:#999;
-  margin:0 0 20px;
-}
-
-h1 a:visited {
-  font-family: 'Quicksand', sans-serif;
-  text-transform:lowercase
-  color:#999;
-  margin:0 0 20px;
 }
 
 .pin-description { display:none }
 .pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a }
 .pin-item:hover .pin-description { display:block;font-family: 'Open Sans', sans-serif;font-weight:400;padding-left:70%}
-/* .pin-title:hover:after { content:" no" } 
-/* .pin-title:hover:pin-description { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:2em;text-transform:uppercase;text-decoration:none;color:#00a } */
-/* .pin-description:hover:after { content:"yes" } */
 .pin-tag { display:none; color:#18c;text-decoration:none;font-size:0.9em; }
