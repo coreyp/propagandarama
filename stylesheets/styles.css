@@ -257,6 +257,5 @@ footer {
 .pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
 .pin-title:hover span { display:none }
 .pin-title:hover:before { content:attr(.pin-description) }
-.pin-description { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
 .pin-description:hover span { display:none }
 .pin-tag { display:none; color:#18c;text-decoration:none;font-size:0.9em; }
