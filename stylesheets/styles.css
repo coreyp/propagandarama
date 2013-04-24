@@ -262,8 +262,8 @@ h1 a:link, h1 a:visited {
 #home .pin-tag { display:none } 
 #home .pin-title { display:none }
 #home .pin-item:hover .pin-description { display:none } 
-#home .pin-item:hover .pin-tag { display:inline-block;color:#18c;text-decoration:none;font-size:0.7em; }
-#home .pin-item:hover .pin-title { display:inline-block;float:right;font-family: 'Open Sans', sans-serif;font-size:3em;font-weight:800 }
+#home .pin-item:hover .pin-tag { display:inline-block;float:right;color:#18c;text-decoration:none;font-size:0.7em;pointer-events:none;cursor:default }
+#home .pin-item:hover .pin-title { display:inline-block;float:left;font-family: 'Open Sans', sans-serif;font-size:3em;font-weight:800 }
 
 #archive .pin-description { display:none }
 #archive .pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:1em;text-transform:uppercase;text-decoration:none;color:#00a }
