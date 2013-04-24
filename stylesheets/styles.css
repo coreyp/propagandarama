@@ -9,7 +9,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Quicksand', sans-serif;
-  text-transform:lowercase
   color:#222;
   margin:0 0 20px;
 }
@@ -255,6 +254,7 @@ footer {
 }
 
 h1 a:link, h1 a:visited {
+  text-transform:lowercase
   color:#999;
 }
 
