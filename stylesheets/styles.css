@@ -254,7 +254,7 @@ footer {
   }
 }
 
-showhide .pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
-showhide .pin-title:hover span { display:none }
-showhide .pin-title:hover:before { content:'New text' }
+.pin-title { font-family: 'Open Sans', sans-serif;font-weight:800;font-size:5em;text-transform:uppercase;text-decoration:none;color:#00a}
+.pin-title:hover span { display:none }
+.pin-title:hover:before { content:'New text' }
 .pin-tag { display:none; color:#18c;text-decoration:none;font-size:0.9em; }
