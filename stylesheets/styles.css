@@ -254,10 +254,10 @@ footer {
   }
 }
 
-.flag:link {
+h1.flag:link {
   font-family: 'Quicksand', sans-serif;
   text-transform:lowercase
-  color:#222;
+  color:#999;
   margin:0 0 20px;
 }
 
